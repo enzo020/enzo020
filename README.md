@@ -4,7 +4,7 @@
 - 🌱 Estudando Java.
 - 🤔 Estou procurando aprender e compartilhar meus conhecimentos.
 - 💬 Me pergunte por que eu quis ser desenvolvedor.
-- 📫 Contatos: linkedin.com/in/enzo-almeida-souza/ | enzoa.dev@hotmail.com | (41) 99223-2122
+- 📫 Contatos: linkedin.com/in/enzo-almeida-souza/ | enzoa.dev@hotmail.com
 - 😄 Pronomes: Ele/ Dele
 
 <div 
