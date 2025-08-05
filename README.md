@@ -1,9 +1,9 @@
 ## Olá, Eu sou Enzo020, tudo bem?👋
 
-- 🔭 Hoje procuro trabalho estagiário em Full-Stacker.
-- 🌱 Estudando Java.
+- 🔭 Hoje procuro trabalho estagio na área.
+- 🌱 Estudando PHP.
 - 🤔 Estou procurando aprender e compartilhar meus conhecimentos.
-- 💬 Me pergunte por que eu quis ser desenvolvedor.
+- 💬 Garoto curioso.
 - 📫 Contatos: linkedin.com/in/enzo-almeida-souza/ | enzoa.dev@hotmail.com
 - 😄 Pronomes: Ele/ Dele
 
