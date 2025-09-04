@@ -1,7 +1,7 @@
 ## Olá, Eu sou Enzo020, tudo bem?👋
 
 - 🔭 Hoje procuro trabalho estagio na área.
-- 🌱 Estudando PHP.
+- 🌱 Estudando Java.
 - 🤔 Estou procurando aprender e compartilhar meus conhecimentos.
 - 💬 Garoto curioso.
 - 📫 Contatos: linkedin.com/in/enzo-almeida-souza/ | enzoa.dev@hotmail.com
