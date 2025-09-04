@@ -2,7 +2,7 @@
 
 - 🔭 Hoje procuro trabalho estagio na área.
 - 🌱 Estudando Java.
-- 🤔 Estou procurando aprender e compartilhar meus conhecimentos.
+- 🤔 Estou procurando estágio.
 - 💬 Garoto curioso.
 - 📫 Contatos: linkedin.com/in/enzo-almeida-souza/ | enzoa.dev@hotmail.com
 - 😄 Pronomes: Ele/ Dele
